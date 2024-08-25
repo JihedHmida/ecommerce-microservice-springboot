@@ -15,7 +15,7 @@
 - [ ] Messaging/Streaming (Kafka)
 - [ ] Database (PostgreSQL, MySQL, MongoDB, Redis)
 - [ ] Monitoring and Logging (Prometheus, Grafana, ELK Stack)
-- [ ] CI/CD (Jenkins, GitHub Actions, GitLab CI/CD)
+- [ ] CI/CD (Jenkins)
 - [ ] Containerization and Orchestration (Docker, Kubernetes)
 - [ ] Security (Spring Security, OWASP ZAP)
 - [ ] API Documentation (Swagger)
