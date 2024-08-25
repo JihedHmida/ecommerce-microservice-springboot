@@ -4,7 +4,7 @@
 - [x] Config Server
 - [x] Discovery Service (Eureka Server)
 - [ ] Gateway Service
-- [ ] Customer Service
+- [x] Customer Service
 - [ ] Product Service
 - [ ] Order Service
 - [ ] Emailing Service
