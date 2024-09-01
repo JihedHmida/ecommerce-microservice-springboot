@@ -5,7 +5,7 @@
 - [x] Discovery Service (Eureka Server)
 - [ ] Gateway Service
 - [x] Customer Service
-- [ ] Product Service
+- [x] Product Service
 - [ ] Order Service
 - [ ] Emailing Service
 - [ ] Payment Service
